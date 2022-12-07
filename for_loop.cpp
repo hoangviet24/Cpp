@@ -16,8 +16,7 @@ int main() {
 	//cout << "Tong so S = 1 + 2 + ... +n = "<<s;
 	//return 0;
 #pragma endregion
-	
-	
+		
 #pragma region s = 1 ^ 2 + n ^ 2
 	/*int n, s = 0;
 	cout << "Enter the number: ";
@@ -27,8 +26,7 @@ int main() {
 		cout << s << endl;*/
 	
 #pragma endregion
-	
-	
+		
 #pragma region 1+1/2+1/n
 	/*float s = 0, n, i;
 	cout << "Enter the number: ";
@@ -46,13 +44,7 @@ int main() {
 	cin >> n;
 	for (int i = 1; i <= n; i++){
 		s = s * i;
-	}
-		
+	}		
 		cout << s;
-#pragma endregion
-
-
-	
-	
-	
+#pragma endregion	
 }
